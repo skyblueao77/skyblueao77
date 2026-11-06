@@ -28,8 +28,8 @@ Civil Engineering & Software Engineering / Data Science enthusiast.
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=skyblueao77&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=skyblueao77&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" height="150" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=skyblueao77&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=skyblueao77&theme=tokyonight" alt="Top Languages" />
 </p>
 
 ---
